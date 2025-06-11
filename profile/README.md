@@ -8,12 +8,13 @@
 
 ---
 
-## 📌 Misi Kami
-Membangun landasan kuat dalam pemrograman, jaringan, keamanan digital, dan etika profesional demi menciptakan generasi analyst yang tangguh dan beretika.
+## 📌 Misi Kami / Our Mission
+- 🇮🇩 Membangun landasan kuat dalam pemrograman, jaringan, keamanan digital, dan etika profesional demi menciptakan generasi analyst yang tangguh dan beretika.
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Building a strong foundation in programming, networking, digital security, and professional ethics to create a generation of resilient and ethical analysts.
 
 ---
 
-## 🚀 Komponen Utama
+## 🚀 Komponen Utama / Main Components
 - 🔐 Belajar Python untuk automation & security tools
 - 🌐 Mengenal jaringan & sistem operasi
 - 🛡️ Praktik Cyber Security dan analisis
@@ -21,12 +22,14 @@ Membangun landasan kuat dalam pemrograman, jaringan, keamanan digital, dan etika
 
 ---
 
-## 🧾 Lisensi
+## 🧾 Lisensi / License
 
-Lihat [LICENSE.md](./LICENSE.md) untuk detail lisensi dan hak cipta.
+- 🇮🇩 Lihat [LICENSE.md](./LICENSE.md) untuk detail lisensi dan hak cipta.
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 See [LICENSE.md](./LICENSE.md) for license and copyright details.
 
 ---
-
+## Pernyataan / Statement
+- 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hermeseyes/.github/main/profile/assets/1749639551110.png" width="200" alt="Hermes Eyes Team Logo">
+  <img src="https://raw.githubusercontent.com/hermeseyes/.github/main/profile/assets/1749639551110.png" width="500" alt="Hermes Eyes Team Logo">
 </p>
