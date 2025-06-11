@@ -1,4 +1,4 @@
-# 🧿 Hermes Eyes Team
+# 🧿 Hermes Eyes
 
 > Sebuah tim pembelajar muda di bidang Cyber Security dan Teknologi Informasi, dibangun oleh pelajar untuk menjadi profesional berintegritas.
 
@@ -29,11 +29,12 @@
 
 ---
 ## Pernyataan / Statement
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hermeseyesteam/.github/main/profile/assets/1749639551110.png" width="180" alt="Hermes Eyes Team Logo">
+  <img src="https://raw.githubusercontent.com/hermeseyes/.github/main/profile/assets/1749639551110.png" width="180" alt="Hermes Eyes Team Logo">
 </p>
 
-<h1 align="center">🧿 Hermes Eyes Team</h1>
+<h1 align="center">🧿 Hermes Eyes</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Founded-11%20Juni%202025-blue?style=for-the-badge" alt="Founded Date Badge">
