@@ -29,7 +29,54 @@
 
 ---
 ## Pernyataan / Statement
-- Dengan ini kami menyatakan bahwasannya organisasi Hermes Eyes resmi dibentuk pada 11 Juni 2025. Dan nama organisasi Hermes Eyes ada di tangan kami sehingga tidak akan ada organisasi dengan nama yang sama.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hermeseyesteam/.github/main/profile/assets/1749639551110.png" width="180" alt="Hermes Eyes Team Logo">
+</p>
+
+<h1 align="center">🧿 Hermes Eyes Team</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Founded-11%20Juni%202025-blue?style=for-the-badge" alt="Founded Date Badge">
+  <img src="https://img.shields.io/badge/Identity-Protected-critical?style=for-the-badge" alt="Protected Identity Badge">
+  <img src="https://img.shields.io/badge/All%20Rights-Reserved-red?style=for-the-badge" alt="All Rights Reserved Badge">
+  <img src="https://img.shields.io/badge/Focus-Cyber%20Security%20%26%20Python-success?style=for-the-badge" alt="Focus Badge">
+</p>
+
+---
+
+## 📜 Pernyataan Resmi
+
+Organisasi **Hermes Eyes** secara resmi **dibentuk pada tanggal 11 Juni 2025** oleh AZE sebagai inisiator dan pendiri utama. Organisasi ini berdedikasi untuk pertumbuhan keilmuan dalam bidang:
+
+- 🔐 **Cyber Security**
+- 🐍 **Python Programming**
+- 🌐 **Jaringan & Infrastruktur**
+- 🎯 **Etika Digital & Open Collaboration**
+
+---
+
+## 🚫 Hak Cipta & Identitas Terlindungi
+
+> Nama, logo, dan identitas **Hermes Eyes** merupakan **merek internal yang dilindungi secara eksklusif** oleh pendiri.
+
+Tidak diperkenankan untuk:
+
+- Menggunakan nama **Hermes Eyes** dalam bentuk apapun
+- Membuat organisasi atau proyek yang **menyerupai nama, branding, atau tujuan**
+- Menggandakan, memfork, atau mendistribusikan konten dari organisasi ini tanpa izin tertulis
+
+🚨 **Pelanggaran terhadap pernyataan ini akan dikenakan tindakan hukum atau pelaporan pelanggaran hak cipta kepada pihak terkait.**
+
+---
+
+## 📫 Kontak Resmi
+
+- Personal: azezo696969@gmail.com  
+- Bisnis & Tim: hermeseyesteam@gmail.com
+
+---
+
+> Terima kasih telah menghormati orisinalitas, visi, dan semangat komunitas kami.
   
 <p align="center">
   <img src="https://raw.githubusercontent.com/hermeseyes/.github/main/profile/assets/1749639551110.png" width="500" alt="Hermes Eyes Team Logo">
