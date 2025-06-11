@@ -29,7 +29,8 @@
 
 ---
 ## Pernyataan / Statement
-- 
+- Dengan ini kami menyatakan bahwasannya organisasi Hermes Eyes resmi dibentuk pada 11 Juni 2025. Dan nama organisasi Hermes Eyes ada di tangan kami sehingga tidak akan ada organisasi dengan nama yang sama.
+  
 <p align="center">
   <img src="https://raw.githubusercontent.com/hermeseyes/.github/main/profile/assets/1749639551110.png" width="500" alt="Hermes Eyes Team Logo">
 </p>
