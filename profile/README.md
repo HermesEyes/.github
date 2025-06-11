@@ -67,6 +67,14 @@ Tidak diperkenankan untuk:
 - Menggandakan, memfork, atau mendistribusikan konten dari organisasi ini tanpa izin tertulis
 
 🚨 **Pelanggaran terhadap pernyataan ini akan dikenakan tindakan hukum atau pelaporan pelanggaran hak cipta kepada pihak terkait.**
+<p align="center">
+  <img src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png" alt="Creative Commons License"/>
+  <img src="https://img.shields.io/badge/Protected%20By-GitHub%20DMCA-blue?style=for-the-badge&logo=github" alt="DMCA Badge">
+<img src="https://img.shields.io/badge/All%20Rights-Reserved-critical?style=for-the-badge&logo=shield" alt="All Rights Reserved">
+<img src="https://img.shields.io/badge/No%20Forking%20-%20No%20Cloning-red?style=for-the-badge&logo=ban" alt="No Fork No Clone">
+<img src="https://img.shields.io/badge/Trademarked-Hermes%20Eyes%20Team-yellow?style=for-the-badge&logo=lock" alt="Trademark Badge">
+</p>
+
 
 ---
 
