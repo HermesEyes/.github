@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/Founded-11%20Juni%202025-blue?style=for-the-badge" alt="Founded Date Badge">
   <img src="https://img.shields.io/badge/Identity-Protected-critical?style=for-the-badge" alt="Protected Identity Badge">
   <img src="https://img.shields.io/badge/All%20Rights-Reserved-red?style=for-the-badge" alt="All Rights Reserved Badge">
-  <img src="https://img.shields.io/badge/Focus-Cyber%20Security%20%26%20Python-success?style=for-the-badge" alt="Focus Badge">
+  <img src="https://img.shields.io/badge/Focus-Cyber%20Security%20%26%20Tools-success?style=for-the-badge" alt="Focus Badge">
 </p>
 
 ---
