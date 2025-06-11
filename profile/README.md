@@ -28,5 +28,5 @@ Lihat [LICENSE.md](./LICENSE.md) untuk detail lisensi dan hak cipta.
 ---
 
 <p align="center">
-  <img src="./profile/assets/1749639551110.png" width="500" alt="Hermes Eyes Team logo">
+  <img src="https://raw.githubusercontent.com/hermeseyes/.github/main/profile/assets/1749639551110.png" width="200" alt="Hermes Eyes Team Logo">
 </p>
